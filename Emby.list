@@ -1,7 +1,5 @@
 # Emby分流
 
-HOST-KEYWORD,emby,PROXY
-
 # MisakaF
 HOST-SUFFIX,misakaf.org,DIRECT
 
@@ -13,3 +11,6 @@ HOST-SUFFIX,atvii.com,DIRECT
 
 #AceEmby
 HOST-SUFFIX,acemby.org,DIRECT
+
+#兜底
+HOST-KEYWORD,emby,PROXY
