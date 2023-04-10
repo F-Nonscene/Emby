@@ -1,0 +1,15 @@
+# Emby分流
+
+HOST-KEYWORD,emby,PROXY
+
+# MisakaF
+HOST-SUFFIX,misakaf.org,DIRECT
+
+#Nebula
+HOST-SUFFIX,nebula-emby.com,DIRECT
+
+#Atvii
+HOST-SUFFIX,atvii.com,DIRECT
+
+#AceEmby
+HOST-SUFFIX,acemby.org,DIRECT
