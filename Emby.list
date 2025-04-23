@@ -1,16 +1,27 @@
 # Emby分流
 
-# MisakaF
-HOST-SUFFIX,misakaf.org,DIRECT
-
 #Nebula
 HOST-SUFFIX,nebula-emby.com,DIRECT
 
-#Atvii
-HOST-SUFFIX,atvii.com,DIRECT
+#Temby
+HOST,temby856.285286.xyz,DIRECT
 
-#AceEmby
-HOST-SUFFIX,acemby.org,DIRECT
+#月饼
+HOST,a.emby.my,DIRECT
+HOST,c.emby.my,SG
+
+#Nanflix
+HOST-SUFFIX,nanflix.net,US
+
+#惊蛰
+HOST-SUFFIX,jingzhe.pro,HK
+
+#非越
+HOST-SUFFIX,sfcj.org,HK
+
+#起点
+HOST,nb.28.al,HK
+HOST-SUFFIX,qdz1.top,DIRECT
 
 #兜底
 # HOST-KEYWORD,emby,PROXY
