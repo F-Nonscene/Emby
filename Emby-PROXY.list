@@ -1,0 +1,19 @@
+# Emby分流
+
+#月饼
+DOMAIN,c.emby.my
+
+#Nanflix
+DOMAIN-SUFFIX,nanflix.net
+
+#惊蛰
+DOMAIN-SUFFIX,jingzhe.pro
+
+#非越
+DOMAIN-SUFFIX,sfcj.org
+
+#起点
+DOMAIN,nb.28.al
+
+#兜底
+DOMAIN-KEYWORD,emby
