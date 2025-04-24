@@ -1,27 +1,27 @@
 # Emby分流
 
 #Nebula
-HOST-SUFFIX,nebula-emby.com,DIRECT
+DOMAIN-SUFFIX,nebula-emby.com,DIRECT
 
 #Temby
-HOST,temby856.285286.xyz,DIRECT
+DOMAIN,temby856.285286.xyz,DIRECT
 
 #月饼
-HOST,a.emby.my,DIRECT
-HOST,c.emby.my,SG
+DOMAIN,a.emby.my,DIRECT
+DOMAIN,c.emby.my,SG
 
 #Nanflix
-HOST-SUFFIX,nanflix.net,US
+DOMAIN-SUFFIX,nanflix.net,US
 
 #惊蛰
-HOST-SUFFIX,jingzhe.pro,HK
+DOMAIN-SUFFIX,jingzhe.pro,HK
 
 #非越
-HOST-SUFFIX,sfcj.org,HK
+DOMAIN-SUFFIX,sfcj.org,HK
 
 #起点
-HOST,nb.28.al,HK
-HOST-SUFFIX,qdz1.top,DIRECT
+DOMAIN,nb.28.al,HK
+DOMAIN-SUFFIX,qdz1.top,DIRECT
 
 #兜底
-# HOST-KEYWORD,emby,PROXY
+DOMAIN-KEYWORD,emby,PROXY
