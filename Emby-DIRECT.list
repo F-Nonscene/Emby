@@ -1,13 +1,13 @@
 # Emby直连分流
 
 #Nebula
-DOMAIN-SUFFIX,nebula-emby.com,DIRECT
+DOMAIN-SUFFIX,nebula-emby.com
 
 #Temby
-DOMAIN,temby856.285286.xyz,DIRECT
+DOMAIN,temby856.285286.xyz
 
 #月饼
-DOMAIN,a.emby.my,DIRECT
+DOMAIN,a.emby.my
 
 #起点
-DOMAIN-SUFFIX,qdz1.top,DIRECT
+DOMAIN-SUFFIX,qdz1.top
