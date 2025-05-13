@@ -16,4 +16,7 @@ DOMAIN-SUFFIX,sfcj.org
 DOMAIN,nb.28.al
 
 #入机
-DOMAIN,embycf.rjemby.com
+DOMAIN-SUFFIX,rjemby.com
+
+#哪吒
+DOMAIN-SUFFIX,nezhasu.com
