@@ -18,10 +18,9 @@
     obj.first_vip_start_time = "2025-01-31T23:59:59Z";
     obj.vip_start_time = "2025-01-31T23:59:59Z";
     obj.vip_end_time = "2026-01-31T23:59:59Z";
-    delete obj.user;
     
     // 增强辅助字段
-    obj.year_total_match = 9;
+    obj.year_total_match = 9999;
     
     $done({ body: JSON.stringify(obj) });
   } catch (e) {
