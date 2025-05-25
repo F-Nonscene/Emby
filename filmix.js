@@ -11,7 +11,7 @@
     
     // 修改 VIP 核心字段
     obj.is_vip = true;
-    obj.vip_level = 1;
+    obj.vip_level = 2;
     
     // 设置时间周期（从当前时间到2025年底）
     const now = new Date().toISOString();
