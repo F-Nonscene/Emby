@@ -112,6 +112,7 @@ proxy-groups:
 
 rules:
   - GEOIP,lan,直连,no-resolve
+  - DOMAIN-SUFFIX,temby856.285286.xyz,国内
   - RULE-SET,biliintl_domain,哔哩东南亚
   - RULE-SET,emby_domain,香港
   - RULE-SET,ehentai_domain,ehentai
