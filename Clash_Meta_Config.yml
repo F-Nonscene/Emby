@@ -13,7 +13,7 @@ p: &p {type: http, interval: 3600, health-check: {enable: true, url: https://www
 proxy-providers:
   provider1:
     <<: *p
-    url: "https://api.stentvessel.club/osubscribe.php?sid=26409&token=1kIkkjNQLeJo"
+    url: "http://8.138.34.87:3389/saccess/8ede32294cee49d2fe49122c58e90393"
 
 ipv6: true
 allow-lan: true
