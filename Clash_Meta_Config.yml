@@ -13,7 +13,7 @@ p: &p {type: http, interval: 3600, health-check: {enable: true, url: https://www
 proxy-providers:
   provider1:
     <<: *p
-    url: "http://8.138.34.87:3389/saccess/8ede32294cee49d2fe49122c58e90393"
+    url: "https://api.v2tun-163cdn.top/sub?target=quanx&scv=true&list=true&emoji=true&url=https%3A%2F%2Fapi.v2tun.li%2Fosubscribe.php%3Fsid%3D26409%26token%3D1kIkkjNQLeJo"
 
 ipv6: true
 allow-lan: true
